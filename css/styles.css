@@ -1,0 +1,30 @@
+body {
+    font-family: 'Turret Road', sans-serif;
+    font-size: 20px;
+    background-color: rgb(251, 253, 253);
+  }
+  
+  .container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .h1 {
+    margin-left: 5%;
+  }
+
+  .search-icon {
+    height: 46px;
+    width: 24px;
+    margin-left: 16px;
+    margin-right: 8px;
+  }
+
+  .grid-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+  }
+  
